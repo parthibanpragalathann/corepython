@@ -1,6 +1,6 @@
-#python learn to work
+# python learn to work
 
-##python enthusiasist
+## python 
 
 ```doctest
 python is an interpreter, general-purpose and high-level
@@ -11,7 +11,7 @@ program is an all-rounder. Because there is a python,
 we can do anything we want.
 ```
 
-###python all rounder
+### python all rounder
 
 ```doctest
 why all rounder , various flavors like cython, 
@@ -21,7 +21,7 @@ stacklesspython. we can use python all paradigm like
 scripting language.
 ```
 
-###Define the details
+### Define the details
 
 ```doctest
 program is a sequence of instruction that specifies
@@ -35,8 +35,5 @@ have been designed to express computation.
 Interpreter does not need to compile before runtime 
 or execution it. This is a step-by-step process of 
 converting source code into machine code. two ways to
-work interpreter Interactive mode and Script mode.
-
-
+work interpreter Interactive mode and Script mode...
 ```
-###follow this link 
