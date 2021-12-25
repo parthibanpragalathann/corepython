@@ -1,7 +1,7 @@
 '''
 comments in python
 figure out what is doing & why? program to explain in natural language what program is doing.
-comments in the source code for human read not for computers excute.
+comments in the source code for human read not for computers executed.
 singleline comment and multiline comment
 '''
 
