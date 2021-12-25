@@ -26,6 +26,7 @@ print(segment[1:4])
 print(segment[-3:-1])
 print(segment[1:])
 print(segment[:3])
+print("reverse string ", segment[::-1])
 
 #STRING SEARCH
 '''traversing a sequence and returning when we find we are looking for its called search'''
@@ -73,3 +74,50 @@ date = "20-30-2021"
 print("partition the text -  ", date.partition("-")) #partition the text -
 
 
+'''output of string
+data type is  <class 'str'>
+data location is  2388998572848
+data length is  6
+iter data using for loop
+b
+a
+n
+a
+n
+a
+Maran
+Karan
+Saran
+tri
+in
+tring
+str
+reverse string  gnirts
+3
+searching letter of d index is   6
+looping count of A is  3
+banana convert into upper case  BANANA
+BAT convert into lower case  bat
+banana convert into capitalize  Banana
+banana convert into title  Banana
+a character count in banana  3
+ab character endswith in banana  False
+a character find in banana  1
+a character find in banana  5
+a character replace in o  bonono
+banana check isupper  False
+banana check islower  True
+banana check isalpha  True
+banana check isalnum  True
+I 
+become
+ a 
+Industrialist
+split the line of the string  ['I ', 'become', ' a ', 'Industrialist']
+split the line of the string  ['I \n', 'become\n', ' a \n', 'Industrialist']
+strip the text  john
+left strip the text  john    
+right strip the text    john
+partition the text -   ('20', '-', '30-2021')
+
+'''
