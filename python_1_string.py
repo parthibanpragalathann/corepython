@@ -111,7 +111,7 @@ banana check isalpha  True
 banana check isalnum  True
 I 
 become
- a 
+ a   
 Industrialist
 split the line of the string  ['I ', 'become', ' a ', 'Industrialist']
 split the line of the string  ['I \n', 'become\n', ' a \n', 'Industrialist']
