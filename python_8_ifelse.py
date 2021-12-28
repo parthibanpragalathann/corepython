@@ -11,6 +11,8 @@ if age > 18:
 else:
     print(name, "Not Eligible to vote")
 
+
+
 '''
 condition is True output 
 Enter your name : parthiban    
