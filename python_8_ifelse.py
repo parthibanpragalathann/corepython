@@ -13,7 +13,7 @@ else:
 
 '''
 condition is True output 
-Enter your name : parthiban
+Enter your name : parthiban    
 Enter your age : 24
 parthiban Your Eligible to vote
 condition is not True/False output
