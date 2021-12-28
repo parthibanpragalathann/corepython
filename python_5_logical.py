@@ -5,6 +5,8 @@ used to connect two or more expressions. Common logical operators include AND, O
 
 '''
 
+
+
 # Logical Operators in Python
 log_val_a = 10
 log_val_b = 0
