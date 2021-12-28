@@ -4,6 +4,7 @@ The numbers are first changed over into binary and afterward activities are perf
 thus the name bitwise operators.
 """
 # Bitwise Operators
+
 """
 & 	AND	each bit is 1 it's True others False 
 |	OR	any one bit is 1 it's true both bit are not same is False
