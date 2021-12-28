@@ -1,5 +1,6 @@
 '''
-the boolean statements expression after is called condition If true then the indent statement get excuted.
+IF STATEMENT IN PYTHON
+the Boolean statements expression after is called condition If true then the indent statement get executed.
 if not nothing happens
 '''
 
