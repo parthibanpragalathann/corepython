@@ -4,6 +4,8 @@ the Boolean statements expression after is called condition If true then the ind
 if not nothing happens
 '''
 
+
+
 #write a program for check get the number positive
 if_val = int(input("ENTER THE NUMBER TO GET RESULT "))
 
