@@ -18,6 +18,9 @@ in view of whether the condition is met.
 
 """
 
+
+
+
 com_val_a=10
 com_val_b=20
 print("Comparison Operators Output ")
@@ -27,3 +30,6 @@ print("Comparison Less than Operators 10 < 20  is ", com_val_a<com_val_b)
 print("Comparison Greater than Operators 10 > 20  is ", com_val_a>com_val_b)
 print("Comparison Less than Equal Operators 10 <= 20  is ", com_val_a<=com_val_b)
 print("Comparison Greater than Equal Operators 10 >= 20  is ", com_val_a>=com_val_b)
+
+
+
