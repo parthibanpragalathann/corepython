@@ -1,23 +1,21 @@
 """
-IF ELIF STATEMENT IN PYTHON
+ELIF STATEMENT IN PYTHON
 sometimes there are more than two possibilities one way to computation we can use elif
 If true then the indent statement get executed.
 elif true then the indent statement get executed.
 else If&elif is not True/False executed else part.
 """
-#write a program to check programmer Quality get name, programming language and points out of 10
+#write a program to check programmer Quality get name, programming language and points
 name = input("Enter your name : ")
 language = input("Enter your programming language : ")
 points = int(input("Enter your points out of 10 : "))
-if points<=10:
-    if points < 5:
-        print(name, "You become a Intermediate in the", language+" program")
-    elif points < 8:
-        print(name, "You become a Expert in the", language+" program")
-    else:
-        print(name, "You become a Expert in the", language+" program")
+
+if points < 5:
+    print(name, "You become a Intermediate in the", language+" program")
+elif points < 8:
+    print(name, "You become a Expert in the", language+" program")
 else:
-    print("Put the points only out of 10 !")
+    print(name, "You become a Expert in the", language+" program")
 '''
 condition IF is True output 
 Enter your name : parthiban
