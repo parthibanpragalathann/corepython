@@ -38,7 +38,7 @@ converting source code into machine code. two ways to
 work interpreter Interactive mode and Script mode...
 ```
 ```
-Python is the chola(king) of programming
-I'm going to be a chola(king) of Python programmer
+Python is the chola(king) of the programming
+I'm going to be a chola(king) of the Python programmer
 
 ```
