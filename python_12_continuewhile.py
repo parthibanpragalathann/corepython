@@ -3,7 +3,7 @@
 Continue using while loop in python
 
 continue statement used to move the control towards the top of the next iteration in the loop.
-it's used bothe while and for loop.
+it's used both while and for loop.
 
 '''
 
