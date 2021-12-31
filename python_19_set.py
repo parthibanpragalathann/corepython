@@ -91,3 +91,26 @@ p=l.issuperset(m)
 print("not same of both set value ", n)
 print("l set is subset or not of set m ", o)
 print("l set is superset or not of set m ", p)
+'''
+output
+SET OF :  {'idly', 'dosa', 'rice'}
+SET TYPE OF :  <class 'set'>
+added biriyani to the set : {'idly', 'biriyani', 'dosa', 'rice'}
+updated  set : {'idly', 'dosa', 'sambar', 'rasam', 'biriyani', 'rice'}
+pop to removed value in the set : indica
+{'jeep', 'swift'}
+removed value in the set : None
+{'rx100', 'pulsar'}
+discard to removed value in the set : None
+{'vicky', 'boost', 'stemper'}
+union of both set  {1, 2, 3, 'b', 'a', 'c'}
+intersection same value of  both a & b set  {2, 4}
+{1, 2, 3, 4}
+using intersection update in the set of a  {2, 4}
+difference between set of f and g  {5, 6}
+symmetric_difference between set of j and k  {2, 3, 4, 5}
+symmetric_difference updated set of j and k  {2, 3, 4, 5}
+not same of both set value  True
+l set is subset or not of set m  False
+l set is superset or not of set m  False
+'''
