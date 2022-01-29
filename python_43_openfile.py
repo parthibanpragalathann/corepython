@@ -16,7 +16,7 @@
 
 # Source Code
 try:
-    f=open("content.txt",'w')
+    f=open("content.txt", 'w')
     #f=open("data.txt",'a')
     #f=open("data.txt",'r')
     #print(f.read())
