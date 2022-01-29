@@ -30,5 +30,3 @@ o.fishing()
 o.cooking()
 o.chess()
 
-
-Function Overriding in Python
