@@ -21,7 +21,7 @@ print(Student.name)
 print(Student.age)
 
 # setattr
-setattr(Student, 'name', 'Tutor Joes')
+setattr(Student, 'name', 'Parthi')
 print(Student.name)
 
 setattr(Student, 'gender', 'Male')
